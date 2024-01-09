@@ -4,15 +4,15 @@
 
 
 --------------------------------------------------------------------------------------
-GitHub Flow é um modelo de fluxo de trabalho leve, simplificado e centrado em integração contínua. Suas principais características incluem:
+:octocat: GitHub Flow é um modelo de fluxo de trabalho leve, simplificado e centrado em integração contínua. Suas principais características incluem:
 
-:bookmark: Branches Principais Simples
+* :bookmark: Branches Principais Simples
 
-:label: Feature Branches
+* :label: Feature Branches
 
-:outbox_tray: Pull Requests (Solicitações de Mesclagem)
+* :outbox_tray: Pull Requests (Solicitações de Mesclagem)
 
-:rocket: Deploy Contínuo
+* :rocket: Deploy Contínuo
 
 --------------------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ Após o merge do Pull Request, algumas equipes configuram seus processos de CI/C
 
 A partir desse ponto, o código que foi mesclado no main é automaticamente implantado no ambiente de produção. Esse processo de implantação pode variar de acordo com as práticas e ferramentas específicas que uma equipe utiliza para fazer a implantação. Esse processo de Pull Request no GitHub Flow é fundamental para garantir a qualidade do código, colaboração entre membros da equipe e a integridade do branch principal antes de incorporar novas alterações.
 
-# Resumo do Fluxo completo
+# :bulb: Resumo do Fluxo completo
 
 :white_check_mark: Branch main: É o branch principal do repositório, representando a versão estável do código em produção.
 
