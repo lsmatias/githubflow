@@ -1,4 +1,4 @@
-# Github flow
+# GitHub Flow
 
 <img width="649" alt="image" src="https://github.com/lsmatias/githubflow/assets/28391885/852e749d-ad00-47ec-aa6d-eaafb43d7c12">
 
