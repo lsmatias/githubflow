@@ -1,7 +1,13 @@
 # GitHub Flow
 
-<img width="649" alt="image" src="https://github.com/lsmatias/githubflow/assets/28391885/852e749d-ad00-47ec-aa6d-eaafb43d7c12">
-
+                                                                                         (Merged)
+    (main) ---------------------------------------------------------------------------------o---->
+      |                                                                                    /
+      ↓                                                                                   /
+      o ----   Feature/nova-funcionalidade                                               / 
+             \                                                                          /
+              \                                                                        /
+               o --- Commits ---- Open a Pull  --- Discuss and Review Commits --- Deploy
 
 --------------------------------------------------------------------------------------
 :octocat: GitHub Flow é um modelo de fluxo de trabalho leve, simplificado e centrado em integração contínua. Suas principais características incluem:
