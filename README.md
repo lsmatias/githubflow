@@ -66,9 +66,9 @@ Suponhamos que você tenha um main estável e tenha trabalhado em uma nova funci
                    \
                     \
                      o --- o --- o    (feature/featurenova-funcionalidade)
-Nesse ponto, o Pull Request permite que outros membros da equipe revisem o código, façam comentários, sugiram alterações ou realizem testes adicionais no código das alterações feitas no feature/branch1.
+Nesse ponto, o Pull Request permite que outros membros da equipe revisem o código, façam comentários, sugiram alterações ou realizem testes adicionais no código das alterações feitas no feature/branch1 (featurenova-funcionalidade).
 
-Após revisões, testes e aprovações, você está pronto para mesclar as alterações de feature/branch1 de volta ao main.
+Após revisões, testes e aprovações, você está pronto para mesclar as alterações de feature/branch1 (featurenova-funcionalidade)de volta ao main.
                                         
                                         (Pull Request)       
                                               |
@@ -78,7 +78,7 @@ Após revisões, testes e aprovações, você está pronto para mesclar as alter
                     \                     /
                      o --- o --- o --- o    (feature/featurenova-funcionalidade)
 
-Finalmente, uma vez que o Pull Request foi revisado e aprovado, as alterações são mescladas no main. O main agora contém as novas funcionalidades implementadas no branch feature/branch1.
+Finalmente, uma vez que o Pull Request foi revisado e aprovado, as alterações são mescladas no main. O main agora contém as novas funcionalidades implementadas no branch feature/branch1(featurenova-funcionalidade).
 
                                          (Pull Request aprovado)
                                               |
