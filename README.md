@@ -103,12 +103,12 @@ A partir desse ponto, o código que foi mesclado no main é automaticamente impl
 
 # :bulb: Resumo do Fluxo completo
 
-:white_check_mark: Branch main: É o branch principal do repositório, representando a versão estável do código em produção.
+:white_check_mark: **Branch main**: É o branch principal do repositório, representando a versão estável do código em produção.
 
-:white_check_mark: Feature Branches: Desenvolvimento de novas funcionalidades acontece em branches separadas (feature branches) originadas a partir do main. Cada funcionalidade ou tarefa é trabalhada em seu próprio branch.
+:white_check_mark: **Feature Branches**: Desenvolvimento de novas funcionalidades acontece em branches separadas (feature branches) originadas a partir do main. Cada funcionalidade ou tarefa é trabalhada em seu próprio branch.
 
-:white_check_mark: Pull Requests (PRs): Quando a funcionalidade está pronta para ser integrada ao main, é criado um Pull Request para revisão do código. Isso permite revisão, discussão e testes antes da mesclagem.
+:white_check_mark: **Pull Requests (PRs)**: Quando a funcionalidade está pronta para ser integrada ao main, é criado um Pull Request para revisão do código. Isso permite revisão, discussão e testes antes da mesclagem.
 
-:white_check_mark: Merge no main: Após a revisão e aprovação, a funcionalidade é mesclada de volta ao main, ativando um processo de implantação contínua.
+:white_check_mark: **Merge no main**: Após a revisão e aprovação, a funcionalidade é mesclada de volta ao main, ativando um processo de implantação contínua.
 
 É importante ressaltar que a implantação automática após o merge nem sempre é uma prática adotada por todas as equipes. Algumas podem optar por um acionamento manual ou algum tipo de etapa de aprovação adicional antes de realizar o deploy para produção. O GitHub Flow é flexível e pode ser adaptado de acordo com as necessidades e políticas específicas de cada equipe ou projeto.
