@@ -111,4 +111,4 @@ A partir desse ponto, o código que foi mesclado no main é automaticamente impl
 
 :white_check_mark: **Merge no main**: Após a revisão e aprovação, a funcionalidade é mesclada de volta ao main, ativando um processo de implantação contínua.
 
-É importante ressaltar que a implantação automática após o merge nem sempre é uma prática adotada por todas as equipes. Algumas podem optar por um acionamento manual ou algum tipo de etapa de aprovação adicional antes de realizar o deploy para produção. O GitHub Flow é flexível e pode ser adaptado de acordo com as necessidades e políticas específicas de cada equipe ou projeto.
+>É importante ressaltar que a implantação automática após o merge nem sempre é uma prática adotada por todas as equipes. Algumas podem optar por um acionamento manual ou algum tipo de etapa de aprovação adicional antes de realizar o deploy para produção. O GitHub Flow é flexível e pode ser adaptado de acordo com as necessidades e políticas específicas de cada equipe ou projeto.
